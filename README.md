@@ -1,4 +1,4 @@
-# arp-request
+# DNS-request
 #### Make a DNS request with scapy
 ##### Requirements:
 - use any linux or use the [Ubuntu x64 vbox machine](https://github.com/fmi-retele/vbox-scapy/releases/download/v1/osbox.vdi.tar.gz)
